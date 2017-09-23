@@ -1,3 +1,4 @@
 test
 Test parallel commit
 after merge
+conflict 2
